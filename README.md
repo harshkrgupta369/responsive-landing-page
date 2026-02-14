@@ -8,7 +8,7 @@ This project represents a startup-style landing page that includes a professiona
 
 ## 🌟 Live Preview
 
-(You can add your deployed link here later)
+(http://127.0.0.1:5500/responsive-landing-page/index.html)
 
 ---
 
